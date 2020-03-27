@@ -1,0 +1,24 @@
+h1{
+	text-align:center;
+}
+
+body{
+	background-image: url("background.jpg")
+}
+.satu{
+	color: black
+	text-align: center;
+	text-align: center;
+	
+}
+#image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+p{
+	text-align: justify;
+	text-indent: 30px;
+
+}
